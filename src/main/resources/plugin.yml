@@ -1,0 +1,8 @@
+name: Commandtab
+version: @version@
+main: com.github.huda0209.commandtab.Commandtab
+api-version: 1.13
+authors: [ huda0209 ]
+commands:
+  stella:
+    description: Chest command plugin.
